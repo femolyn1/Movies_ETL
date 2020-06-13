@@ -12,7 +12,7 @@ The following assumptions were made while writing this script:
 
  * While extracting the IMDB from the IMDb link, the system might throw an error is the data contains no [IMDB_link](https://github.com/femolyn1/Movies_ETL/blob/3e51935981002dad536908f6aeec1c20dcf8bc7b/Challenge.py#L104). To mitigate this , a try, except statement was added. 
  
- * Some kaggle data with non numeric data type like the 'Id' and 'popularity' columns  might be convertible to numbers. To mitigate this, errors was set to raise within those codes. 
+ * Some kaggle data with non numeric data type like the ['Id'](https://github.com/femolyn1/Movies_ETL/blob/2346079aea05dce8a316646373d0339fa4b99f07/Challenge.py#L229) and 'popularity' columns  might be convertible to numbers. To mitigate this, errors was set to raise within those codes. 
  
  *
 
