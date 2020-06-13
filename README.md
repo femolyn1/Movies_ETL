@@ -4,6 +4,6 @@ The purpose of this project is to write a script to extract, transform and load 
 
 ## Analysis
 
-A function was created to take in the three arguments 
+A function was created to take in the three [arguments](https://github.com/femolyn1/Movies_ETL/blob/b4ded04985db628cb536b8aa923619aec7d91119/Challenge.py#L85) 
 
 
