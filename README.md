@@ -8,5 +8,9 @@ To clean the wiki_movie data, we started by filtering for only movies with "Dire
 
 ### Assumptions:
 
+The following assumptions were made while writing this script:
+
+* The IMDb_link 
+
 
 
