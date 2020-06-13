@@ -22,7 +22,7 @@ The following assumptions were made while writing this script:
  
  ## Summary: 
  
- Although this script can be further revamped for better performance, it provides insight into the effectiveness of the ETL automation process. This process will certainly reduce rework and boost efficiency within the work environment.
+ Although this script can be further revamped for better performance, it provides insight into the effectiveness of the ETL automation process. Companies are currently leveraging this process to reduce rework and boost efficiency.
 
 
 
