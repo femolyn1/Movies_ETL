@@ -17,6 +17,13 @@ The following assumptions were made while writing this script:
  * [Adult column](https://github.com/femolyn1/Movies_ETL/blob/9e42f51e56607cd7fa5057079c178308b3865e3d/Challenge.py#L222) in the kaggle data is too messy and will be dropped.
  
  * Some movies will have no [rating](https://github.com/femolyn1/Movies_ETL/blob/edd43113f23f35790b5356c03ed0a82d4b3ff08a/Challenge.py#L307) information hence we will fill with zeros.
+ 
+ * Error might occur while loading into SQL, hence a try except statement was added.
+ 
+ ## Summary: 
+ 
+ Although this script can be further revamped for better performance, it provides insight into the effectiveness of the ETL automation process. This process will certainly reduce rework and boost efficiency within the work environment.
+
 
 
 
