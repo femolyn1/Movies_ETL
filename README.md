@@ -14,7 +14,7 @@ The following assumptions were made while writing this script:
  
  * Some kaggle data with non numeric data type like the ['Id'](https://github.com/femolyn1/Movies_ETL/blob/2346079aea05dce8a316646373d0339fa4b99f07/Challenge.py#L229) and 'popularity' columns  might be convertible to numbers. To mitigate this, errors was set to raise within those codes. 
  
- * Adult column in the kaggle data is damaged beyond repair and will be dropped.
+ * [Adult column](https://github.com/femolyn1/Movies_ETL/blob/9e42f51e56607cd7fa5057079c178308b3865e3d/Challenge.py#L222) in the kaggle data is too messy and will be dropped.
 
 
 
