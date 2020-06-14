@@ -16,9 +16,9 @@ The following assumptions were made while writing this script:
  
  * [Adult column](https://github.com/femolyn1/Movies_ETL/blob/9e42f51e56607cd7fa5057079c178308b3865e3d/Challenge.py#L222) in the kaggle data is too messy and will be dropped.
  
- * Some movies will have no [rating](https://github.com/femolyn1/Movies_ETL/blob/edd43113f23f35790b5356c03ed0a82d4b3ff08a/Challenge.py#L307) information hence we will fill with zeros.
+ * Some movies will have no [rating](https://github.com/femolyn1/Movies_ETL/blob/edd43113f23f35790b5356c03ed0a82d4b3ff08a/Challenge.py#L307) information hence we created a code to fill the rows with zeros. 
  
- * Error might occur while loading into SQL, hence a try except statement was added.
+ * Error might occur while loading into SQL, hence a try except statement was added to the load code block.
  
  ## Summary: 
  
