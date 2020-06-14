@@ -4,7 +4,7 @@ The purpose of this project is to write a script to extract, transform and load 
 
 ## Analysis:
 
-To clean the wiki_movie data, we filtered for only movies with "Director' and "Directed by" to reduce the lengthy columns. We then created a function for clean movies and added codes to create a non destructive version and alternative titles of the movies. We also created another function inside the main function to change the column names. After this , a function was created to take in the three [arguments](https://github.com/femolyn1/Movies_ETL/blob/b4ded04985db628cb536b8aa923619aec7d91119/Challenge.py#L85) and codes from jupyter notebook were transferred into the function while the exploratory codes were left out.
+To clean the wiki_movie data, we filtered for only movies with "Director' and "Directed by" to reduce the lengthy columns. We then created a function for clean movies and added codes to create a non destructive version and alternative titles of the movies. We also created another function inside the main function to change the column names. After this , a function was created to take in  three [arguments](https://github.com/femolyn1/Movies_ETL/blob/b4ded04985db628cb536b8aa923619aec7d91119/Challenge.py#L85) and codes from jupyter notebook were transferred into the function while the exploratory codes were left out.
 
 ### Assumptions:
 
